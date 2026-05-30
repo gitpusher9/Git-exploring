@@ -1,2 +1,3 @@
 # Git-exploring
-1 edit
+1st edit
+2nd edit
